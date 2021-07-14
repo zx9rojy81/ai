@@ -1,3 +1,3 @@
 # Ai + Exciting
 
-ai 사이트
+ai study
